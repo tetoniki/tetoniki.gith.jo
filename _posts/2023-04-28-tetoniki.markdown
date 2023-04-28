@@ -23,4 +23,4 @@ categories: Javascript NodeJS
 
 [![着せられた犬](/assets/images/78258.jpg)](https://www.yahoo.co.jp)
 
-[Twitter](@tenshisama_GA)
+[Twitter](@hajimesyacho)
