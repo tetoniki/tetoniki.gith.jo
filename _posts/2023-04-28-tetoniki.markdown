@@ -13,3 +13,4 @@ categories: Javascript NodeJS
 
 - black
 - ビタミン
+- メンチカツにソースかける派？それともかけない派？
