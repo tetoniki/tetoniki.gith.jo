@@ -14,3 +14,7 @@ categories: Javascript NodeJS
 - black
 - ビタミン
 - メンチカツにソースかける派？それともかけない派？
+
+
+
+[Yahoo! JAPAN](https://www.yahoo.co.jp)
